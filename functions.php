@@ -1,6 +1,8 @@
 <?php
 
-         function formatAuthors($author) {
+         function formatAuthors($authorfirst, $authorlast) {
+		 $author = array_map(function ($x, $y) { return $x . " " . $y; }, $authorfirst, $authorlast);
+
                  $numAuthors = count($author);
 		 if($numAuthors == 1){
                     return $author[0];
