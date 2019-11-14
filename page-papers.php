@@ -11,8 +11,7 @@
 <h5>PAPERS</h5>
 </div>
 </div>
-	<div class="row">
-		<div class="col-sm-12">
+
 
       <?php 
         $paper_loop = new WP_Query(array( 

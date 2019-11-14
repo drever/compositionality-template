@@ -9,7 +9,7 @@
 
       <?php 
 				$args =  array( 
-          'post_type' => 'post-news',
+          'post_type' => 'paper',
 					'orderby' => 'date',
 					'order' => 'DESC'
 				);

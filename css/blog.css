@@ -58,7 +58,6 @@ a:hover, a:active, a:focus {
   text-decoration: none;
 }
 p span {
-  font-weight: 700;
 }
 
 /* Container */
@@ -146,6 +145,11 @@ img {
 }
 .content_left{
 	padding-right: 5%;
+}
+
+h3.abstract-header {
+    padding-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 /* Blog posts */
