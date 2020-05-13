@@ -23,6 +23,10 @@ function compositionality_scripts() {
 	wp_enqueue_script( 'bootstrap', get_template_directory_uri() . '/js/bootstrap.min.js', array( 'jquery' ), '3.3.7', true );
 }
 
+// Path to Image Directory
+define( 'image_path', get_stylesheet_directory_uri() . '/images' );
+
+
 add_action( 'wp_enqueue_scripts', 'compositionality_scripts' );
 
 // WordPress Titles
@@ -52,11 +56,6 @@ function create_custom_post() {
 	));
 }
 add_action( 'init', 'create_custom_post' );
-
-// Path to Image Directory
-if( !defined(image_path)){
-  define( 'image_path', get_stylesheet_directory_uri() . '/images' );
- }
 
  // Custom Nav Menu
 function wpb_custom_new_menu() {

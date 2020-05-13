@@ -2,7 +2,7 @@
 
     <footer class="blog-footer secondary">
       <p><a href="#">back to top</a></p>
-      <p>&copy; 2018-19 Compositionality</p>
+      <p>&copy; 2018-20 Compositionality</p>
     </footer>
 
     <!-- Google Web Font Loader -->

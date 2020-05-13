@@ -177,6 +177,7 @@ h3.abstract-header {
 }
 .blog-post-title {
   margin: 0;
+  font-weight: bold;
 }
 h5.blog-post-meta {
   font-style: italic;
