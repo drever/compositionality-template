@@ -5,11 +5,14 @@
 <?php get_header();
 ?>
 
-<div class="blog-main">
+<div>
 <br>
-<p>Compositionality describes and quantifies how complex things can be assembled out of simpler parts. <em>Compositionality</em>, this journal, is an open-access, arXiv-overlay journal for research using compositional ideas, most notably of a category-theoretic origin, in any discipline. Topics may concern foundational structures, an organizing principle, or a powerful tool. Example areas include but are not limited to: computation, logic, physics, chemistry, engineering, linguistics, and cognition.</p>
-<p><em>Compositionality</em> is published under ISSN 2631-<wbr />4444. For more information, see our <a href=“https://compositionality-journal.org/about/“>About</a> page.</p>
-</div>
+<center><h4>Compositionality describes and quantifies how complex things can be assembled out of simpler parts. </h4>
+
+	<h4>
+	<em>Compositionality</em> (ISSN 2631-<wbr />4444) is an open-access, arXiv-overlay journal for research using compositional ideas in any discipline. For more information, see <a href="https://compositionality-journal.org/about/">About</a>.</h4>
+</center>
+	</div>
 
 <br>
 <br>
