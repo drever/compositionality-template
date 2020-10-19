@@ -9,6 +9,11 @@
     <meta name="keywords" content="compositionality, category theory, open access, journal, mathematics, computation, logic, physics, chemistry, engineering, linguistics, cognition">
     <meta name="author" content="Stephanie Ku">
     <meta name="google-site-verification" content="XKzj6jdMMAWAG46HXC949EIfj4KPnSJcSod2mObN8RY" />
+	<meta property="og:title" content="Compositionality" />
+	<meta property="og:description" content="The open-access journal for the mathematics of composition" />
+	<meta property="og:image" content="https://compositionality-journal.org/wp-content/uploads/2019/11/logo.png" />
+	<meta property="og:url" content="https://compositionality-journal.org/" />
+	<meta name="twitter:card" content="summary_large_image" />
     <?php wp_head();?>
   </head>
 
